@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+# some logs
+/log
+*.log
+npm-debug*
+
+# webpack build target folder
+/build
+/dist
+
+# npm modules
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+/node_modules
